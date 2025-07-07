@@ -72,8 +72,10 @@ I'd love to explore how these insights could be applied to more recent online le
 │   ├── final_report.pdf      # Complete academic analysis
 │   └── methodology.md        # Technical details
 └── results/
-    ├── model_comparison.png   # Performance across all 6 models
-    └── feature_importance.png # What drives course completion
+    ├──EDA-plots/             # - Visualizations from exploratory data analysis
+    ├──precision_recall_curves# - Visual comparison of model performance
+    ├──cross_validation_output# - Model tuning from cross-validation for all 6 models
+    └── feature_importance/   # - Top predictors of course completion for all 6 models
 ```
 
 ## Getting Started
