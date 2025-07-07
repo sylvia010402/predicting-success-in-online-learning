@@ -38,6 +38,8 @@ Model outputs and performance visualizations.
 - Classifies students as "likely to complete" at 42% predicted probability
 - Better for catching at-risk students who might succeed with support
 
+![alt text](results/precision_recall_curves/prc_rf_optimal.png)
+
 ## Model Selection
 
 Random Forest chosen because it:
