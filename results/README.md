@@ -3,7 +3,7 @@
 Model outputs and performance visualizations.
 
 ## Folders
-
+- **`EDA-plots`** - Visualizations from exploratory data analysis
 - **`cross_validation_output`** - Model tuning from cross-validation for all 6 models
 - **`precision_recall_curves`** - Visual comparison of model performance
 - **`feature_importance`** - Top predictors of course completion for all 6 models
