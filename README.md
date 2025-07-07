@@ -40,7 +40,7 @@ I tested six different machine learning models to see which could best identify 
 
 Random Forest emerged as the clear winner with an F1-score of 0.737, successfully identifying about 79% of students who would earn certificates while keeping false alarms manageable:
 
-![alt text](prc_combined.png)
+![alt text](results/precision_recall_curves/prc_combined.png)
 
 
 ## Real-World Impact
