@@ -38,7 +38,10 @@ I tested six different machine learning models to see which could best identify 
 - Support Vector Machine
 - K-Nearest Neighbors
 
-Random Forest emerged as the clear winner with an F1-score of 0.737, successfully identifying about 79% of students who would earn certificates while keeping false alarms manageable.
+Random Forest emerged as the clear winner with an F1-score of 0.737, successfully identifying about 79% of students who would earn certificates while keeping false alarms manageable:
+
+![alt text](prc_combined.png)
+
 
 ## Real-World Impact
 
