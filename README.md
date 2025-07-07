@@ -2,7 +2,7 @@
 
 ## The Problem
 
-The Massive Open Online Courses (MOOCs) have gained popularity as flexible, accessible platforms for global learning. Platforms like HarvardX and MITx attract hundreds of thousands of learners annually. However, despite high enrollment rates, certification rates remain strikingly low. As someone who's enrolled in multiple online courses but rarely finished them, I was curious: what actually separates the students who earn certificates from those who don't? With MOOC completion rates hovering around 2-3%, understanding these patterns could help millions of learners achieve their educational goals.
+The Massive Open Online Courses (MOOCs) have gained popularity as flexible, accessible platforms for global learning. Platforms like HarvardX and MITx attract hundreds of thousands of learners annually. However, despite high enrollment rates, certification rates remain strikingly low. As someone who's enrolled in multiple online courses but only mananged to finish a few of them, I was curious: what actually separates the students who earn certificates from those who don't? With MOOC completion rates hovering around 2-3%, understanding these patterns could help millions of learners achieve their educational goals.
 
 ## What I Found
 
