@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-This dataset captures student-level data from the first year of HarvardX and MITx MOOCs (Fall 2012 - Summer 2013). Each row represents one enrolled student across 13 courses from both institutions.
+This dataset captures student-level data from the first year of HarvardX and MITx MOOCs (Fall 2012 - Summer 2013). Each row represents one enrolled student across 13 courses from both institutions. Due to person de-identification issues, we could not retrive the user data for the courses titled MITx. 
 
 ## Course Information
 
