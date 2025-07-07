@@ -2,12 +2,11 @@
 
 Model outputs and performance visualizations.
 
-## Files
+## Folders
 
-- **`model_performance_comparison.csv`** - Performance metrics for all 6 models
-- **`precision_recall_curves.png`** - Visual comparison of model performance
-- **`feature_importance.png`** - Top predictors of course completion
-- **`threshold_analysis.png`** - F1-score optimization results
+- **`cross_validation_output`** - Model tuning from cross-validation for all 6 models
+- **`precision_recall_curves`** - Visual comparison of model performance
+- **`feature_importance`** - Top predictors of course completion for all 6 models
 
 
 # Model Performance Results
